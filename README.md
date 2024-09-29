@@ -1,4 +1,5 @@
 Introduction
+
 Welcome to the Top 10 U.S.I.U Africa Off Campus Housing website! This project is a responsive and user-friendly platform designed to provide affordable, safe, and secure housing options for students of the United States International University – Africa (U.S.I.U Africa). The website showcases the top 10 off-campus housing options, integrates customer reviews, and provides essential contact and payment information to facilitate easy and informed decision-making for prospective tenants.
 
 Business Objective
